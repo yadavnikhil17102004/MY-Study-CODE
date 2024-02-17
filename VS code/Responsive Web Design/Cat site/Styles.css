@@ -1,0 +1,59 @@
+h1, h2{
+    text-align: center;
+    color: grey;
+}
+p { 
+  font-size: 15px;
+}
+/* comment here */
+body{
+  font-family:cursive;
+  background-color: rgb(249, 232, 223);
+  /* background-image:url("Cat site Resource/5236199.jpg");*/
+}
+hr{
+  height:5px ;
+  background-color: pink;
+  border-color: brown;
+  }
+  
+#title{
+  width: 80%;
+  background-color: rgb(225, 152, 205);
+  margin-left:auto;
+  margin-right:auto;
+  padding: auto;
+}
+
+.cat_list{
+  padding: 20px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.cat_hate_list{
+  padding: 20px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  border-radius: 10%;
+  max-width: 500px;
+}
+
+.item p {
+  display: inline-block;
+}
+.flavor {
+  text-align: left;
+  width: 75%;
+}
+.price {
+  text-align: right;
+  width: 25%
+}
